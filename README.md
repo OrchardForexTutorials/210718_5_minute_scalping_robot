@@ -1,3 +1,12 @@
+<!-- START_HEADER -->
+
+Youtube: https://youtu.be/SaA67PUuxpg
+
+For a broker with fast execution and tight spreads sign up to IC Markets using our affiliate link <br>
+https://ic.com/?camp=78657
+
+<!-- END_HEADER -->
+
 # 5 Minute Scalping Expert (MT4/MT5)
 
 This is a tutorial based on a scalping strategy for 5‑minute charts. The strategy itself is not extraordinary and should be considered a learning example rather than a ready‑to‑trade system; on its own it is likely to be around break‑even or slightly negative over time due to spreads and commissions.
