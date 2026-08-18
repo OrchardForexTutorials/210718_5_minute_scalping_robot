@@ -20,7 +20,9 @@ This strategy combines:
 
 The expert advisor is written to compile for both MetaTrader 4 and MetaTrader 5 from a common include file, with only small platform‑specific sections for indicator handling and order execution.
 
-The tutorial walks through the full include‑file code used to implement this strategy, explaining how the trend filter, entry logic, and risk management are coded and how the same logic is shared between MT4 and MT5 with only small platform‑specific differences.<!-- START_FOOTER -->
+The tutorial walks through the full include‑file code used to implement this strategy, explaining how the trend filter, entry logic, and risk management are coded and how the same logic is shared between MT4 and MT5 with only small platform‑specific differences.
+
+<!-- START_FOOTER -->
 ### Warning
 
 This is not to be used for live trading
